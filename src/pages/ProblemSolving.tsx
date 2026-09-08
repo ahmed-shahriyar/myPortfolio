@@ -95,8 +95,8 @@ const ProblemSolving = () => {
   const platforms = [
     {
       name: "LeetCode",
-      solved: 42,
-      total: 3632,
+      solved: 14,
+      total: 3632,    
       rating: 33,
       rank: "",
       color: "bg-orange-500",
